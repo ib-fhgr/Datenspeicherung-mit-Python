@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Moby Dick",
+        "author": "Herman Melville",
+        "year": 1851
+    },
+    {
+        "id": 2,
+        "name": "Stolz und Vorurteil",
+        "author": "Jane Austen",
+        "year": 1813
+    },
+    {
+        "id": 3,
+        "name": "1984",
+        "author": "George Orwell",
+        "year": 1949
+    },
+    {
+        "id": 4,
+        "name": "Der gro\u00dfe Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925
+    },
+    {
+        "id": 5,
+        "name": "Krieg und Frieden",
+        "author": "Leo Tolstoy",
+        "year": 1869
+    }
+]
